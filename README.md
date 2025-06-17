@@ -389,24 +389,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **[FFmpeg Project](https://ffmpeg.org/)**: Powerful multimedia processing
 - **All Contributors**: Everyone who helped improve this project
 
-## 📞 Contact & Support
-
-- **Developer**: [YOUR_NAME]
-- **Email**: your.email@example.com
-- **GitHub**: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- **Issues**: [Report bugs or request features](../../issues)
-- **Discussions**: [Join the community](../../discussions)
-
-## 🌟 Show Your Support
-
-If this project helped you, please consider:
-- ⭐ Starring the repository
-- 🍴 Forking for your own experiments  
-- 📢 Sharing with others who might benefit
-- 💖 [Sponsoring the development](https://github.com/sponsors/YOUR_USERNAME)
-
----
-
 <div align="center">
 
 **⭐ Star this repo if you found it useful! ⭐**
