@@ -5,6 +5,8 @@ A Low Complexity Speech Enhancement Framework for Full-Band Audio (48kHz) using 
 
 For PipeWire integration as a virtual noise suppression microphone look [here](https://github.com/Rikorose/DeepFilterNet/blob/main/ladspa/README.md).
 
+<br><br>
+
 
 # 🎬 DeepFilterNet Video Audio Enhancer (DeepFilterNet is described further on.)
 
